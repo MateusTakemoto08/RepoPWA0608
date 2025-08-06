@@ -3,9 +3,7 @@ const urlsToCache = [
     '/RepoPWA0608/',
     '/RepoPWA0608/index.html',
     '/RepoPWA0608/style.css',
-    '/RepoPWA0608/manifest.json',
-    '/RepoPWA0608/icons/icon-192x192.png',
-    '/RepoPWA0608/icons/icon-512x512.png'
+    '/RepoPWA0608/manifest.json'
 ];
 
 self.addEventListener('install', event => {
